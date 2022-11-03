@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ogawde7" target="blank"><img src="https://img.shields.io/twitter/follow/ogawde7?logo=twitter&style=for-the-badge" alt="ogawde7" /></a> </p>
 
-- 🌱 Learning in Newton School **Full Stack Web development**
+- 🌱 Learning in Sharpener **Full Stack Web development**
 
 - 📫 How to reach me **ogawde7@gmail.com**
 
