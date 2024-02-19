@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Omkar Gawde</h1>
-<h3 align="center">A candidate having bachelors in non tech, transforming career into tech.</h3>
+<h1 align="center">Hi 👋, I'm Omkar Gawde this side</h1>
+<h3 align="center">A candidate having bachelors in managment studies (i.e.non tech), transforming career into tech.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hectorshaw&label=Profile%20views&color=0e75b6&style=flat" alt="hectorshaw" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/ogawde7" target="blank"><img src="https://img.shields.io/twitter/follow/ogawde7?logo=twitter&style=for-the-badge" alt="ogawde7" /></a> </p>
 
-- 🌱 Learning in Sharpener **Full Stack Web development**
+- 🌱 Learning Full Stack **Web Development**
 
 - 📫 How to reach me **ogawde7@gmail.com**
 
