@@ -1,7 +1,7 @@
 <h1 align="left">Omkar Gawde</h1>
 
-###  23-year-old full-stack dev working magic with TypeScript & JavaScript. 
-###  Built 10+ projects you can judge me on—completely ready to take your org to the next level. 
+###  A full-stack dev working magic with TypeScript & JavaScript. 
+###  Built 10+ projects you can judge me on—completely ready to take your product to the next level. 
 ###  Always learning, always building. Let's grow 100x together!
 ___
 <h3 align="left">🛠 Language and tools</h3>
